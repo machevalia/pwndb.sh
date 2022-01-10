@@ -4,9 +4,10 @@ Script to utilize the v2 pwndb onion site to find leaked passwords.
 Problem: Many want to continue using the pwndb database to find leaked passwords. However, Tor is no longer supporting v2 addresses after version 11 and no one seems to have found a v3 onion for pwndb (if you have let me know :) ).
 
 Solution: 
-1. Download the version 10.5.10 of Tor browser from my Google Drive (yikes, I know I wouldn't trust me either) https://drive.google.com/file/d/1_IkwqPBhk03Hy4E1BO0w1r_UYprb7mNz/view, 
-
-OR if Tor hasn't taken it down yet, here: https://dist.torproject.org/torbrowser/10.5.10/
+1. Download the version 10.5.10 of Tor browser from one of these locations: 
+* Archive.org https://web.archive.org/web/20211104213819if_/https://dist.torproject.org/torbrowser/10.5.10/tor-browser-linux64-10.5.10_en-US.tar.xz
+* If Tor hasn't taken it down yet, here: https://dist.torproject.org/torbrowser/10.5.10/
+* Download the version 10.5.10 of Tor browser from my Google Drive (yikes, I know I wouldn't trust me either. See issues where 3rd party has validate my hash values) https://drive.google.com/file/d/1_IkwqPBhk03Hy4E1BO0w1r_UYprb7mNz/view, 
 
 2. Un-zip that son of a gun somewhere on your device.
 3. Start the browser the first time, turn off automatic updates and check the box to automatically connect to Tor.
