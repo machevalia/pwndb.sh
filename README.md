@@ -1,4 +1,6 @@
 # pwndb.sh
+DEPRECATED - NO LONGER SUPPORTED - v2 pwndb site is gone.
+
 Script to utilize the v2 pwndb onion site to find leaked passwords.
 
 Problem: Many want to continue using the pwndb database to find leaked passwords. However, Tor is no longer supporting v2 addresses after version 11 and no one seems to have found a v3 onion for pwndb (if you have let me know :) ).
